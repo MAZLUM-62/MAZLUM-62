@@ -3,12 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazlum-62&label=Profile%20views&color=0e75b6&style=flat" alt="mazlum-62" /> </p>
 
-- 🔭 I’m currently working on **Cental-V**
-
 - 🌱 I’m currently learning **Vuetify**
-
 - 💬 Ask me about **all**
-
 - 📫 How to reach me **Discord**
 
 <h3 align="left">Connect with me:</h3>
