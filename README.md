@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazlum-62&label=Profile%20views&color=0e75b6&style=flat" alt="mazlum-62" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
+- 🌱 Current Projekt: Own Company
 - 💬 Ask me about **all**
 - 📫 How to reach me **Discord**
 
